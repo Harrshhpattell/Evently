@@ -19,6 +19,7 @@ Evently is a platform for event management.
 7. add Separator ui from shadecn  
    -- 'npx shadcn-ui@latest add separator'
    ![image](https://github.com/Harrshhpattell/Evently/assets/102842153/87aa4dd2-afc5-43ec-8ca7-b47c8a80e0c8)
-   ![image](https://github.com/Harrshhpattell/Evently/assets/102842153/209ee9c0-98d3-4e14-b515-1318158c3dd5)  
+   ![image](https://github.com/Harrshhpattell/Evently/assets/102842153/209ee9c0-98d3-4e14-b515-1318158c3dd5)
 
 8. footer part done
+9. Hero Section done

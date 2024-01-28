@@ -23,5 +23,8 @@ Evently is a platform for event management.
 
 8. footer part done
 9. Hero Section done
-    ![image](https://github.com/Harrshhpattell/Evently/assets/102842153/840632dd-6080-438b-9dd2-b7aaa5e06439)
+   ![image](https://github.com/Harrshhpattell/Evently/assets/102842153/840632dd-6080-438b-9dd2-b7aaa5e06439)
 
+10. connecting our application with database  
+    -- npm i mongodb mongoose
+11. Connected to mongodb database and created user and event model

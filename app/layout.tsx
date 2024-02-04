@@ -28,3 +28,14 @@ export default function RootLayout({
     </ClerkProvider>
   );
 }
+
+
+
+// disable sign up option
+{/* <ClerkProvider appearance={{
+  elements: {
+    footer: "hidden",
+  },
+}}>
+
+</ClerkProvider> */}

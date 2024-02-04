@@ -46,4 +46,9 @@ Evently is a platform for event management.
     -- deploy website and add webhook in clerk after that copy secret key of webhook and add in local env and deploy env  
     -- succesfully store our login data to our database using webhooks.
 
-13. creating new page in [root]/events/create/page.tsx
+13. creating new page in root/events/create/page.tsx and root/events/78/update/page.tsx  
+    -- installing shadecn form components  
+    -- npx shadcn-ui@latest add form  
+    -- npx shadcn-ui@latest add input
+    -- npx shadcn-ui@latest add select
+    -- npx shadcn-ui@latest add alert-dialog

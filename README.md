@@ -42,3 +42,5 @@ Evently is a platform for event management.
 
     -- create new category model
     -- create new order model
+
+    -- deploy website and add webhook in clerk after that copy secret key of webhook and add in local env and deploy env

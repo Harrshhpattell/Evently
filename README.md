@@ -41,3 +41,4 @@ Evently is a platform for event management.
     -- created 'create new user' in user.action.ts file
 
     -- create new category model
+    -- create new order model

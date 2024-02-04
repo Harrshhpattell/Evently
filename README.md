@@ -28,3 +28,14 @@ Evently is a platform for event management.
 10. connecting our application with database  
     -- npm i mongodb mongoose
 11. Connected to mongodb database and created user and event model
+12. Sync Clerk data to your backend with webhooks  
+    (https://clerk.com/docs/users/sync-data)  
+    (https://clerk.com/docs/integrations/webhooks)  
+    -- npm install svix  
+    -- creating new folder in app/api/webhook/clerk/route.ts and paste it code as per documentation of clerk  
+    -- creating action folder in lib folder lib/action/user.actions.ts  
+    -- updating utli.ts file like handling erros function  
+    -- npm i query-string  
+    -- created 'create new user' in user.action.ts file
+
+    -- create new category model

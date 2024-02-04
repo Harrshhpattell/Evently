@@ -4,7 +4,7 @@ Evently is a platform for event management.
 1. install shadecn from shadesn ui website
 2. install uploadthing/tw (for file uploading like img in nextjs)----npm i uploadthing/tw
 3. inline fold extension ( it hide className )
-4. es7+ extension ( rfc basic )
+4. es7+ extension ( rfc basic (rafce) )
 5. setup clerk (authorization)  
    -- first create project in clerk  
    -- get clerk key and public clerk key store in our .env.local file  
@@ -40,7 +40,10 @@ Evently is a platform for event management.
     -- npm i query-string  
     -- created 'create new user' in user.action.ts file
 
-    -- create new category model
+    -- create new category model  
     -- create new order model
 
-    -- deploy website and add webhook in clerk after that copy secret key of webhook and add in local env and deploy env
+    -- deploy website and add webhook in clerk after that copy secret key of webhook and add in local env and deploy env  
+    -- succesfully store our login data to our database using webhooks.
+
+13. creating new page in [root]/events/create/page.tsx

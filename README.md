@@ -28,7 +28,9 @@ Evently is a platform for event management.
 10. connecting our application with database  
     -- npm i mongodb mongoose
 11. Connected to mongodb database and created user and event model
-12. Sync Clerk data to your backend with webhooks  
+12. Sync Clerk data to your backend with webhooks
+    ![image](https://github.com/Harrshhpattell/Evently/assets/102842153/ee778f5e-a1ab-4cf3-9229-170ea30eb09c)
+
     (https://clerk.com/docs/users/sync-data)  
     (https://clerk.com/docs/integrations/webhooks)  
     -- npm install svix  

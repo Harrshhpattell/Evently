@@ -49,6 +49,6 @@ Evently is a platform for event management.
 13. creating new page in root/events/create/page.tsx and root/events/78/update/page.tsx  
     -- installing shadecn form components  
     -- npx shadcn-ui@latest add form  
-    -- npx shadcn-ui@latest add input
-    -- npx shadcn-ui@latest add select
-    -- npx shadcn-ui@latest add alert-dialog
+    -- npx shadcn-ui@latest add input   
+    -- npx shadcn-ui@latest add select   
+    -- npx shadcn-ui@latest add alert-dialog    

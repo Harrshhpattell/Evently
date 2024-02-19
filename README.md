@@ -57,4 +57,4 @@ Evently is a platform for event management.
 14. creating new account in uploadthing and copy keys and paste it on my project .env.local file  
     -- npm install uploadthing @uploadthing/react
     -- npm install react-datepicker --save and then (npm i --save-dev @types/react-datepicker)  
-    -- npx shadcn-ui@latest add checkbox...........
+    -- npx shadcn-ui@latest add checkbox              

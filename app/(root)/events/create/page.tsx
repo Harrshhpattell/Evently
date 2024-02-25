@@ -5,6 +5,7 @@ import React from "react";
 const CreateEvent = () => {
   const { sessionClaims } = auth();
   const userId = sessionClaims?.userId as string;
+  console.log("harsghggh",userId)
   return (
     <>
       <section className="bg-primary-50 bg-dotted-pattern bg-cover bg-center py-5 sm:py-10">

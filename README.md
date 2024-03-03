@@ -60,6 +60,6 @@ Evently is a platform for event management.
     -- npx shadcn-ui@latest add checkbox              
     -- npm update uploadthing ( problem in api/uplodething/core.ts)
 
-15. create event,
-     -- created event detail page,
-     -- created show event in home page.
+15. create event (Collection, Card, Pagination component),        
+     -- created event detail page,     
+     -- created show event in home page.        

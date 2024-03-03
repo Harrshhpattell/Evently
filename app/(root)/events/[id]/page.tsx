@@ -10,6 +10,7 @@ const EventDetails = async ({
   searchParams,
 }: SearchParamProps) => {
   const event = await getEventById(id);
+//   console.log("harsh-event-list",event)
 
   return (
     <>

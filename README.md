@@ -59,3 +59,7 @@ Evently is a platform for event management.
     -- npm install react-datepicker --save and then (npm i --save-dev @types/react-datepicker)  
     -- npx shadcn-ui@latest add checkbox              
     -- npm update uploadthing ( problem in api/uplodething/core.ts)
+
+15. create event,
+     -- created event detail page,
+     -- created show event in home page.

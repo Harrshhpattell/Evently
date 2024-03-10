@@ -57,10 +57,12 @@ Evently is a platform for event management.
 14. creating new account in uploadthing and copy keys and paste it on my project .env.local file  
     -- npm install uploadthing @uploadthing/react
     -- npm install react-datepicker --save and then (npm i --save-dev @types/react-datepicker)  
-    -- npx shadcn-ui@latest add checkbox              
+    -- npx shadcn-ui@latest add checkbox  
     -- npm update uploadthing ( problem in api/uplodething/core.ts)
 
 15. create event (Collection, Card, Pagination component),  
-     -- created event create page and after submitting it redirect in event detail page,      
-     -- created event detail page,     
-     -- created show event in home page.        
+     -- created event create page and after submitting it redirect in event detail page,  
+     -- created event detail page,  
+     -- created show event in home page.  
+     -- now organizer should be able to delete there own event.  
+     -- now organizer should be able to update there own event. (update form)

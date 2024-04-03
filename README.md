@@ -66,3 +66,9 @@ Evently is a platform for event management.
      -- created show event in home page.  
      -- now organizer should be able to delete there own event.  
      -- now organizer should be able to update there own event. (update form)
+
+16. created profile section    
+     -- created profile section    
+     -- npm i @stripe/stripe-js
+     -- npm i stripe
+     -- stripe payment  done

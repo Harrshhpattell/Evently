@@ -69,6 +69,6 @@ Evently is a platform for event management.
 
 16. created profile section    
      -- created profile section    
-     -- npm i @stripe/stripe-js
-     -- npm i stripe
-     -- stripe payment  done
+     -- npm i @stripe/stripe-js    
+     -- npm i stripe    
+     -- stripe payment implemented      

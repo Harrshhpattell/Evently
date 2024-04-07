@@ -28,7 +28,18 @@ const UserSchema = new Schema({
     type: String,
     required: true,
   },
-});
+  created_at: {
+    type: Number,
+  },
+  last_sign_in_at: {
+    type: Number,
+  },
+  updated_at: {
+    type: Number,
+  }
+},
+{ timestamps: true }
+);
 
 const User = models.User || model("User", UserSchema);
 

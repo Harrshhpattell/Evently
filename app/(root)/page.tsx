@@ -17,7 +17,7 @@ export default async function Home({ searchParams }: SearchParamProps) {
     limit: 6,
   });
 
-  console.log("harsh", events);
+  // console.log("harsh", events);
   return (
     <>
       <section className="bg-primary-50 bg-dotted-pattern bg-contain py-5 md:py-10">

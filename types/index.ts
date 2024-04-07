@@ -16,6 +16,9 @@ export type UpdateUserParams = {
   lastName: string;
   username: string;
   photo: string;
+  created_at?: number;
+  last_sign_in_at?: number | null;
+  updated_at?: number;
 };
 
 // ====== EVENT PARAMS
